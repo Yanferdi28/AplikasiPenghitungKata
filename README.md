@@ -174,7 +174,7 @@ private void simpanKeFile() {
 
 ## 6. Tampilan Saat Aplikasi di Run
 
-
+![image](https://github.com/user-attachments/assets/56dd4b8c-de9a-4818-8158-c7ef1d43be84)
 
 ## 7. Indikator Penilaian
 
